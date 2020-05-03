@@ -1,0 +1,44 @@
+body{
+    background-color:rgb(18, 19, 18);
+    height: 100%;
+    font-size: large;
+}
+
+#titulos{
+    text-align: center;
+    color: rgb(134, 0, 0);
+}
+
+#titulo{
+    text-align: center;
+    text-shadow:  #000000  3px 3px;
+}
+
+#comentariotitulo {
+    text-align: center;
+}
+
+#logo{
+    text-align: center;
+}
+
+#titulosection{
+    text-align: center;
+}
+
+#articulos{
+    text-align: center;
+}
+
+#lista {
+    color: rgb(134, 0, 0);
+}
+
+#titulofooter {
+    text-shadow:  #000000  3px 3px;
+
+}
+
+footer {
+    text-align: center;
+}
