@@ -10,7 +10,6 @@ body{
 }
 
 #titulo{
-    text-align: center;
     text-shadow:  #000000  3px 3px;
 }
 
@@ -34,11 +33,20 @@ body{
     color: rgb(134, 0, 0);
 }
 
+#sugerencias {
+    float: inline-end;
+    margin-top: 10px;
+}
+
+#formulario {
+
+}
+
 #titulofooter {
     text-shadow:  #000000  3px 3px;
 
 }
 
-footer {
-    text-align: center;
+#informacion {
+    float: left;
 }
