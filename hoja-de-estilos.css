@@ -7,11 +7,9 @@ body{
 #titulos{
     text-align: center;
     color: rgb(134, 0, 0);
-}
-
-#titulo{
     text-shadow:  #000000  3px 3px;
 }
+
 
 #comentariotitulo {
     text-align: center;
@@ -39,11 +37,6 @@ body{
 }
 
 #formulario {
-
-}
-
-#titulofooter {
-    text-shadow:  #000000  3px 3px;
 
 }
 
